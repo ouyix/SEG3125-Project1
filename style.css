@@ -1,0 +1,116 @@
+body{
+    background-color: #F3EFE0;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px; 
+}
+
+header{
+    background-color: transparent;
+    height: 100px;
+  
+    text-align: center;
+}
+
+nav{
+    background-color: #434242;
+    height: 70px;
+    padding-top: 20px;
+  
+
+    text-align: center;
+    
+}
+
+nav a{
+    color: #F3EFE0;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration:none;
+
+    
+}
+
+main{
+    background-color: #222222;
+    height: 400px;
+    padding-top: 100px;
+  
+  
+    text-align: center;
+    
+}
+
+footer{
+    background-color: #22A39F;
+    height: 40px;
+  
+}
+
+h1{
+    font-size: 60px;
+    color: #F3EFE0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 18px;
+    color: #F3EFE0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    font-size: 18px;
+    background-color: #22A39F;
+    color: #222222;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+button a{
+    color: #222222;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration:none;
+
+}
+
+.about{
+    padding-left: 250px;
+    padding-right: 250px;
+  
+}
+
+.figure-caption{
+    color: #F3EFE0;
+}
+
+h2{
+    color: #F3EFE0;
+}
+
+h4{
+    color: #F3EFE0;
+}
+
+.stylist{
+    height: fit-content;
+}
+
+.space{
+    height: 40px;
+}
+
+.service{
+    height: 600px;
+
+}
+
+.contact{
+    height: 600px;
+
+}

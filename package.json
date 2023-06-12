@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "homepage": "https://github.com/ouyix/ouyix.github.io"
     "bootstrap": "^5.3.0"
   }
 }
